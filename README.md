@@ -1,10 +1,10 @@
 # YTPlusM
-A fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options but with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
+The best fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options but with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
 
-<strong>This is the main repo, for pre-built IPAs and Debs. Updates will be published in Releases tab.
+<strong>This is the main repo, for pre-built IPAs and Debs. Updates will be published in Releases tab.</strong>
 
 
-Visit <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2.1">YTPlusM-DIY-5.2.1 repo</a> to build yourself YTPlusM but with YTPlus 5.2.1 (without DRM Patreon subscription) and <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2b4">YTPlusM-DIY-5.2b4 repo</a> to build YTPlusM with YTPlus 5.2b4 or previous versions.</strong>
+Visit <a href="https://github.com/Mark02-2012/YTPlusM-DIY">YTPlusM-DIY repo</a> to build yourself YTPlusM IPAs (with YTPlus from 5.1 to 5.2.1, no 5.2) without DRM Patreon subscription.
 **Don't know how to build YTPlus or YTPlusM? Read [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions) and [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)**
 
 ## Table of Contents
@@ -117,7 +117,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 
 <li><strong>YTPlusM DIY:</strong></li>
-<strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Go on <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2b4">YTPlusM-DIY-5.2b4 repo</a> (to build YTPlusM with YTPlus 5.2b4 or previous versions) or <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2.1">YTPlusM-DIY-5.2.1 repo</a> (to build YTPlusM with YTPlus 5.2.1 without DRM Patreon subscription); then go to Actions, workflows, "Create YouTube Plus app", make sure it is selected the branch "YTPlusM_DIY" or "YTPlusM_DIY_5.2.1" and create your total functioning IPA!</strong>
+<strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Go on <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2.1">YTPlusM-DIY repo</a> (to build YTPlusM with YTPlus from 5.1 to 5.2.1, no 5.2, without DRM Patreon subscription); then go to Actions, workflows, "Create YouTube Plus app", make sure it is selected the branch "YTPlusM_DIY" and create your total functioning IPA!</strong>
 View also <a href=#how-to-build-a-youtube-plus-app-using-github-actions>How to build a YouTube Plus app using GitHub Actions</a> to learn how to create YTPlus and YTPlusM IPAs.
 
 PS: DIY=DO IT YOURSELF
@@ -138,7 +138,7 @@ First release, added YTweaks, Gonerino and YouSpeed injectable
    <li><strong>Date tested:</strong> <em>May 1, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>
-<strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2.1">YTPlusM-DIY-5.2.1 repo</a> to build YTPlusM with newest yt versions⚠️</strong>
+<strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use YTPlus 5.2.1 to build YTPlusM with newest yt versions⚠️</strong>
 
 ## Supported YouTube Version For iOS 15
 <ul>
