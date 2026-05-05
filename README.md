@@ -137,7 +137,7 @@ Finally! YTLowContrastMode added, supporting also newest YT IPAs
 
 <ul>
    <li><strong>Latest confirmed:</strong> <em>21.18.4</em></li>
-   <li><strong>Date tested:</strong> <em>May 1, 2026</em></li>
+   <li><strong>Date tested:</strong> <em>May 3, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>
 <strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use YTPlus 5.2.1 to build YTPlusM with newest yt versions⚠️</strong>
