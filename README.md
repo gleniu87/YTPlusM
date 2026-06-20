@@ -14,7 +14,7 @@ Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and Y
 # MUST READ
 **From now (June 1 2026) you do not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch). [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY) will not be updated anymore**
 
-## Starting from now, I'll slowly remove download table and releases' files due to legal reason; I will do a better guide to how build yourself the IPA with Actions and where find the decrypted IPA. I'm sorry for this, but it's necessary if you want to see survive this repository :(, but maybe I will create a Telegram channel for pre-built IPAs
+## Starting from now, I'll slowly remove download table and releases' files due to legal reason; I will do a better guide to how build yourself the IPA with Actions and where find the decrypted IPA. I'm sorry for this, but it's necessary if you want to see survive this repository :(, but I CREATED A NEW TELEGRAM CHANNEL FOR RELEASES! 👉[LINK TO JOIN](https://t.me/YTPlusM_official)👈
 
 ## Download table
 Deleted 
