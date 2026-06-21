@@ -103,7 +103,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 <details>
-  <summary>How to build the YouTube Plus app with your own link for the YouTube Plus tweak</summary>
+  <summary>How to build the YouTube Plus app with your own link for the YouTube Plus tweak (YTPLUSM TWEAKS NOT INTEGRATED)</summary>
   <ol>
     <blockquote>
       <p><strong>NOTE:</strong> This option is primarily intended for building the YouTube Plus app based on the beta file you have. In other cases, it is generally not needed.</p>
